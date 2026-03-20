@@ -1,4 +1,4 @@
-# 🌍 Terraform Projects by Pravesh Sudha
+# 🌍 Terraform Projects by George Koufie
 
 This repository is a collection of Terraform projects that showcase **Infrastructure as Code (IaC)** best practices, real-world use cases, and security-first approaches for deploying applications and managing cloud resources on AWS.
 
@@ -78,11 +78,7 @@ Through these projects, you will:
 * Deploy real-world applications with **AWS services**
 * Gain experience in **Terraform state management**
 
----
-
-## 👨‍💻 Author
-
-**Pravesh Sudha**
+-
 
 * 🌐 [Blog](https://blog.praveshsudha.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/pravesh-sudha/)
